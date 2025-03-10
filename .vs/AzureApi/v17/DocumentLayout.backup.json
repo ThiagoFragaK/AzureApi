@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Projekten\\Dotnet\\AzureApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|k:\\projekten\\dotnet\\azureapi\\azureapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|solutionrelative:azureapi\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|k:\\projekten\\dotnet\\azureapi\\azureapi\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|solutionrelative:azureapi\\services\\filesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|k:\\projekten\\dotnet\\azureapi\\azureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|solutionrelative:azureapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|k:\\projekten\\dotnet\\azureapi\\azureapi\\dtos\\blobresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|solutionrelative:azureapi\\dtos\\blobresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|k:\\projekten\\dotnet\\azureapi\\azureapi\\dtos\\blobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|solutionrelative:azureapi\\dtos\\blobdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|k:\\projekten\\dotnet\\azureapi\\azureapi\\entities\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF88BAA-062F-4E1D-890D-B3B0A9CC835A}|AzureApi\\AzureApi.csproj|solutionrelative:azureapi\\entities\\fileentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\Program.cs",
+              "RelativeDocumentMoniker": "AzureApi\\Program.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\Program.cs",
+              "RelativeToolTip": "AzureApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:48:27.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlobResponseDTO.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\DTOs\\BlobResponseDTO.cs",
+              "RelativeDocumentMoniker": "AzureApi\\DTOs\\BlobResponseDTO.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\DTOs\\BlobResponseDTO.cs",
+              "RelativeToolTip": "AzureApi\\DTOs\\BlobResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:16:49.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobDTO.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\DTOs\\BlobDTO.cs",
+              "RelativeDocumentMoniker": "AzureApi\\DTOs\\BlobDTO.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\DTOs\\BlobDTO.cs",
+              "RelativeToolTip": "AzureApi\\DTOs\\BlobDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:15:13.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "AzureApi\\Controllers\\FilesController.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "AzureApi\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:52:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileEntity.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\Entities\\FileEntity.cs",
+              "RelativeDocumentMoniker": "AzureApi\\Entities\\FileEntity.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\Entities\\FileEntity.cs",
+              "RelativeToolTip": "AzureApi\\Entities\\FileEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:51:09.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 268,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilesService.cs",
+              "DocumentMoniker": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\Services\\FilesService.cs",
+              "RelativeDocumentMoniker": "AzureApi\\Services\\FilesService.cs",
+              "ToolTip": "K:\\Projekten\\Dotnet\\AzureApi\\AzureApi\\Services\\FilesService.cs",
+              "RelativeToolTip": "AzureApi\\Services\\FilesService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:19:09.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

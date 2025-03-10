@@ -1,0 +1,11 @@
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\AzureApi.exe
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\appsettings.Development.json
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\appsettings.json
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\AzureApi.dll
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\AzureApi.deps.json
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\AzureApi.runtimeconfig.json
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\AzureApi.pdb
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+K:\Projekten\Dotnet\AzureApi\AzureApi\obj\Debug\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

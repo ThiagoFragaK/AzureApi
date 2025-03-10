@@ -1,0 +1,10 @@
+@AzureApi_HostAddress = https://localhost:44320
+
+GET {{AzureApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+POST {{AzureApi_HostAddress}}/api/files/UploadFiles
+
+###
