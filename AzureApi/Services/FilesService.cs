@@ -10,8 +10,8 @@ namespace AzureApi.Services
 {
     public class FilesService
     {
-        private readonly string _storageAccount = "devstoreaccount1";
-        private readonly string _key = "Eby8vdM02xNOcqFlqUwJPLlmEtlCDXJ1OUzFT50uSRZ6IFsuFq2UVErCz4I6tq/K1SZFPTOtr/KBHBeksoGMGw==";
+        private readonly string _storageAccount = "";
+        private readonly string _key = "";
         private readonly BlobContainerClient _filesContainer;
 
         public FilesService()
